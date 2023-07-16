@@ -1,10 +1,10 @@
-#Hi! I'm Berkay Kaan
-##💫 About Me:
-####🔭 I’m currently working on Front-end
-####🌱 I’m currently learning never give up :)
-####🖥 Most of my projects are available on Github
-####💬 Ask me about anything tech related, I am happy to help;
-####📫 Feel free to ping me on LinkedIn
+# Hi! I'm Berkay Kaan
+## 💫 About Me:
+#### 🔭 I’m currently working on Front-end
+#### 🌱 I’m currently learning never give up :)
+#### 🖥 Most of my projects are available on Github
+#### 💬 Ask me about anything tech related, I am happy to help;
+#### 📫 Feel free to ping me on LinkedIn
 
 🌐 Socials:
 Discord Instagram LinkedIn
